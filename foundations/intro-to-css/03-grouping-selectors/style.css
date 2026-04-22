@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.but1, .but2{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", serif;
+    
+}
+
+.but1{
+    color: white;
+    background-color: black;
+}
+
+.but2{
+    color: black;
+    background-color: yellow;
+}
